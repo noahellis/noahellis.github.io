@@ -1,12 +1,18 @@
-body { 
-      background-color: yellow;
+p {
+	font-family: sans-serif;
+	color: black;
 }
-h1 { 
-      color: blue;
+html*
+ {font="bold"
+ }
+ body {
+  margin: 50px;
+  background-color: lightblue;
 }
-#myId { 
-      color: green;
+
+p {padding-bottom 2cm;
 }
-.myClass { 
-      color: red;
-}
+#awesomeText {font-family: 'Times New Roman', Georgia, serif;}
+.soft {color:#a8a8a8;}
+.center {text-align:center;}
+.container {margin:0 auto;}
