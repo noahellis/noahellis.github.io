@@ -1,12 +1,12 @@
-p {
-	font-family: sans-serif;
-	color: #0000FF;
+body { 
+      background-color: yellow;
 }
-html*
- {font="bold"
- }
- 
-#awesomeText {font-family: 'Times New Roman', Georgia, serif;}
-.soft {color:#a8a8a8;}
-.center {text-align:center;}
-.container {margin:0 auto;}
+h1 { 
+      color: blue;
+}
+#myId { 
+      color: green;
+}
+.myClass { 
+      color: red;
+}
